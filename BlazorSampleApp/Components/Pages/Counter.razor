@@ -1,0 +1,37 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+<div>
+    <p> @name is here</p>
+</div>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="DecrementCount">Click not me</button>
+
+
+<button class="btn btn-primary" @onclick="ShowName">Who are you ?</button>
+
+
+
+@code {
+    private int currentCount = 1000;
+    private String name = "";
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    private void DecrementCount(){
+        currentCount--;
+    }
+
+    private void ShowName(){
+        name = "No-One";
+    }
+}

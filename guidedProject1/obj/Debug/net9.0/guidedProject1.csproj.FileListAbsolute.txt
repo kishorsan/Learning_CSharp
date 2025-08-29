@@ -1,0 +1,15 @@
+C:\Personal\CSharp\guidedProject1\bin\Debug\net9.0\guidedProject1.exe
+C:\Personal\CSharp\guidedProject1\bin\Debug\net9.0\guidedProject1.deps.json
+C:\Personal\CSharp\guidedProject1\bin\Debug\net9.0\guidedProject1.runtimeconfig.json
+C:\Personal\CSharp\guidedProject1\bin\Debug\net9.0\guidedProject1.dll
+C:\Personal\CSharp\guidedProject1\bin\Debug\net9.0\guidedProject1.pdb
+C:\Personal\CSharp\guidedProject1\obj\Debug\net9.0\guidedProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\CSharp\guidedProject1\obj\Debug\net9.0\guidedProject1.AssemblyInfoInputs.cache
+C:\Personal\CSharp\guidedProject1\obj\Debug\net9.0\guidedProject1.AssemblyInfo.cs
+C:\Personal\CSharp\guidedProject1\obj\Debug\net9.0\guidedProject1.csproj.CoreCompileInputs.cache
+C:\Personal\CSharp\guidedProject1\obj\Debug\net9.0\guidedProject1.sourcelink.json
+C:\Personal\CSharp\guidedProject1\obj\Debug\net9.0\guidedProject1.dll
+C:\Personal\CSharp\guidedProject1\obj\Debug\net9.0\refint\guidedProject1.dll
+C:\Personal\CSharp\guidedProject1\obj\Debug\net9.0\guidedProject1.pdb
+C:\Personal\CSharp\guidedProject1\obj\Debug\net9.0\guidedProject1.genruntimeconfig.cache
+C:\Personal\CSharp\guidedProject1\obj\Debug\net9.0\ref\guidedProject1.dll

@@ -1,0 +1,15 @@
+C:\Personal\CSharp\Task1\bin\Debug\net9.0\Task1.exe
+C:\Personal\CSharp\Task1\bin\Debug\net9.0\Task1.deps.json
+C:\Personal\CSharp\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+C:\Personal\CSharp\Task1\bin\Debug\net9.0\Task1.dll
+C:\Personal\CSharp\Task1\bin\Debug\net9.0\Task1.pdb
+C:\Personal\CSharp\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\CSharp\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+C:\Personal\CSharp\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+C:\Personal\CSharp\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+C:\Personal\CSharp\Task1\obj\Debug\net9.0\Task1.sourcelink.json
+C:\Personal\CSharp\Task1\obj\Debug\net9.0\Task1.dll
+C:\Personal\CSharp\Task1\obj\Debug\net9.0\refint\Task1.dll
+C:\Personal\CSharp\Task1\obj\Debug\net9.0\Task1.pdb
+C:\Personal\CSharp\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+C:\Personal\CSharp\Task1\obj\Debug\net9.0\ref\Task1.dll

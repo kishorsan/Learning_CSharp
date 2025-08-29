@@ -12,3 +12,4 @@ C:\Personal\CSharp\TestProject\obj\Debug\net9.0\refint\TestProject.dll
 C:\Personal\CSharp\TestProject\obj\Debug\net9.0\TestProject.pdb
 C:\Personal\CSharp\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
 C:\Personal\CSharp\TestProject\obj\Debug\net9.0\ref\TestProject.dll
+C:\Personal\CSharp\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Personal\CSharp\basics\bin\Debug\net9.0\basics.exe
+C:\Personal\CSharp\basics\bin\Debug\net9.0\basics.deps.json
+C:\Personal\CSharp\basics\bin\Debug\net9.0\basics.runtimeconfig.json
+C:\Personal\CSharp\basics\bin\Debug\net9.0\basics.dll
+C:\Personal\CSharp\basics\bin\Debug\net9.0\basics.pdb
+C:\Personal\CSharp\basics\obj\Debug\net9.0\basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\CSharp\basics\obj\Debug\net9.0\basics.AssemblyInfoInputs.cache
+C:\Personal\CSharp\basics\obj\Debug\net9.0\basics.AssemblyInfo.cs
+C:\Personal\CSharp\basics\obj\Debug\net9.0\basics.csproj.CoreCompileInputs.cache
+C:\Personal\CSharp\basics\obj\Debug\net9.0\basics.sourcelink.json
+C:\Personal\CSharp\basics\obj\Debug\net9.0\basics.dll
+C:\Personal\CSharp\basics\obj\Debug\net9.0\refint\basics.dll
+C:\Personal\CSharp\basics\obj\Debug\net9.0\basics.pdb
+C:\Personal\CSharp\basics\obj\Debug\net9.0\basics.genruntimeconfig.cache
+C:\Personal\CSharp\basics\obj\Debug\net9.0\ref\basics.dll
